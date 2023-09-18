@@ -1,0 +1,6 @@
+# ninja log v5
+1	81	1695030138229915954	build.ninja	ddc6d039d0fbfb3e
+0	1320	1695030139551833923	CMakeFiles/option_black_scholes_cpp.dir/main.cpp.o	4267a4db86645426
+1323	1403	1695030139642126760	option_black_scholes_cpp	fe0f7df981f724b8
+38	1642	1695031311486995098	CMakeFiles/option_black_scholes_cpp.dir/main.cpp.o	4267a4db86645426
+1643	1726	1695031311577769825	option_black_scholes_cpp	fe0f7df981f724b8

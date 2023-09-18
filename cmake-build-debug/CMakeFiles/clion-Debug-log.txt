@@ -1,0 +1,5 @@
+/Users/gomes/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/gomes/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/gomes/Desktop/Projects/option-black-scholes-cpp -B /Users/gomes/Desktop/Projects/option-black-scholes-cpp/cmake-build-debug
+-- Found Boost: /opt/homebrew/lib/cmake/Boost-1.82.0/BoostConfig.cmake (found suitable version "1.82.0", minimum required is "1.82.0")  
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/gomes/Desktop/Projects/option-black-scholes-cpp/cmake-build-debug
